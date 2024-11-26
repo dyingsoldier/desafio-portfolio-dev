@@ -1,0 +1,12 @@
+.red{
+color: var(--red-color);
+}
+
+.subtitle{
+font: var(--text-subtitle);
+}
+
+.text-lg{
+font: var(--text-lg-asap);
+color: var(--gray-600);
+}
