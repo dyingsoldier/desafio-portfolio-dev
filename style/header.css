@@ -1,0 +1,38 @@
+#intro{
+    /* width: 1366px; */
+    height: 750px;
+    background-image: url(../assets/imagens/Background_Intro.png);
+    background-size: cover;
+}
+#intro{
+    align-content: center;
+}
+#tags{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 16px;
+}
+
+.muie{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-bottom: 56px;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+
+    p{
+        width: 47em;
+    }
+}
+
+#header{
+
+}

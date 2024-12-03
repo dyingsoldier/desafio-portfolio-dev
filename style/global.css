@@ -41,26 +41,3 @@ body{
     font: var(--text-sm-asap);
     color: var(--gray-400);
 }
-
-#info{
-    width: 1366px;
-    height: 750px;
-    background-image: url(../assets/imagens/Background_Intro.png);
-    background-size: cover;
-}
-
-.tags{
-    img{
-
-    }
-    display: flex;
-    
-    
-}
-header{
-}
-
-.container{
-    width: 1040px;
-    height: 447px;
-}

@@ -4,9 +4,11 @@ color: var(--red-color);
 
 .subtitle{
 font: var(--text-subtitle);
+margin-bottom: 8px;
 }
 
 .text-lg{
 font: var(--text-lg-asap);
 color: var(--gray-600);
+margin-bottom: 20px;
 }
