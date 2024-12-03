@@ -12,3 +12,7 @@ font: var(--text-lg-asap);
 color: var(--gray-600);
 margin-bottom: 20px;
 }
+
+.text-sm{
+font: var(--text-sm-maven);
+}
