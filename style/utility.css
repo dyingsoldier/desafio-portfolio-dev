@@ -13,6 +13,36 @@ color: var(--gray-600);
 margin-bottom: 20px;
 }
 
+.text-md-maven{
+font: var(--text-md-maven);
+color: var(--gray-500);
+}
+
 .text-sm{
 font: var(--text-sm-maven);
+}
+
+.gray{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 8px;
+    background-color: var(--gray-300);
+    border-radius: 999px;
+}
+
+.img{
+    display: flex;
+    margin-block: 8px;
+    gap: 8px;
+    height: 24px;
+    width: 24px;
+}
+
+.position{
+    position: relative;
+    top: 10px;
+    right: 40px;
+    
 }
