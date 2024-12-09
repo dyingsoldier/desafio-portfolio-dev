@@ -5,7 +5,7 @@
     background-size: cover;
 }
 #intro{
-    align-content: center;
+    align-content: start;
 }
 #tags{
     display: flex;
@@ -16,6 +16,7 @@
 }
 
 .muie{
+    margin-top: 120px;
     display: flex;
     justify-content: center;
     align-items: end;
@@ -34,6 +35,11 @@
     }
 }
 
-#header{
-
+#projetos{
+background-color: var(--gray-200);
+/* width: 1366px; */
+height: 917px;
+padding: 72px 120px;
+display: grid;
+justify-content: center;
 }
