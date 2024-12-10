@@ -43,3 +43,31 @@ padding: 72px 120px;
 display: grid;
 justify-content: center;
 }
+
+#services{
+background-color: var(--gray-100);
+/* width: 1366px; */
+height: 480px;
+padding: 88px 120px 120px 120px;
+display: flex;
+flex-direction: column;
+align-content: center;
+justify-content: center;
+}
+
+#Contato{
+background-image: url(/assets/imagens/Background_Contacts.png);
+background-size: cover;
+/* width: 1366px; */
+height: 787px;
+padding: 128px 120px 200px 120px;
+}
+
+.tags2{
+margin-top: 48px;
+display: flex;
+flex-direction: column;
+gap: 16px;
+align-items: center;
+justify-content: center;
+}
